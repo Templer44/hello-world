@@ -1,2 +1,3 @@
-# hello-world
-A repository for hello world.
+# About me
+
+Hello world, my name is Shawn Templer and I like playing basketball.
